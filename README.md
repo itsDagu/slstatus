@@ -20,3 +20,6 @@ sudo make clean install
 
 ## Dependencies
 Requires 'ttf-font-awesome' from AUR.
+```
+pacman -S ttf-font-awesome
+```
